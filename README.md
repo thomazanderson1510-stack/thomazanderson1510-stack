@@ -37,7 +37,7 @@ Construir minha carreira na área de **Cloud Computing**, evoluindo para **Engen
 
 ## 📬 Vamos nos conectar?
 
-- **LinkedIn:** [linkedin.com/in/SEU-LINKEDIN](https://linkedin.com/in/SEU-LINKEDIN) *(substitua pelo seu link)*
+- **LinkedIn:** https://www.linkedin.com/in/thomaz-alves-285b08301/
 - **GitHub:** [@thomazanderson1510-stack](https://github.com/thomazanderson1510-stack)
 
 ---
